@@ -48,7 +48,7 @@
 
 1.  Clone este repositório:
     ```bash
-    git clone [URL-DO-SEU-REPOSITÓRIO]
+    git clone https://github.com/Icaro-Jose09/cp5-classificacao-nba/tree/main
     ```
 2.  Abra o arquivo `Seu_Notebook.ipynb` no Google Colab.
 3.  Quando solicitado na Célula 5, faça o upload do arquivo `2021-2022 NBA Player Stats - Regular.csv` (incluído neste repositório).
